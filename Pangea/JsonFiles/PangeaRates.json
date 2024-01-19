@@ -1,0 +1,26 @@
+﻿[
+  {
+	"Country": "Mexico",
+	"CountryCode": "MEX",
+	"CurrencyCode": "MXN",
+	"Rate": "0.024"
+  },
+  {
+	"Country": "Philippines",
+	"CountryCode": "PHL",
+	"CurrencyCode": "PHP",
+	"Rate": "2.437"
+  },
+  {
+	"Country": "Guatemala",
+	"CountryCode": "GTM",
+	"CurrencyCode": "GTQ",
+	"Rate": "0.056"
+  },
+  {
+	"Country": "India",
+	"CountryCode": "IND",
+	"CurrencyCode": "INR",
+	"Rate": "3.213"
+  }
+]
